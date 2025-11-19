@@ -17,7 +17,7 @@ String command;
 
 //PID constants
 //** Modify these value for Task 2-4
-double kp = 0.5;
+double kp = 1;
 double ki = 0.001;
 double kd = 0.0003;
 
